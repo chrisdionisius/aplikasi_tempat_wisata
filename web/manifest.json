@@ -1,6 +1,6 @@
 {
-    "name": "aplikasi_tempat_wisata",
-    "short_name": "aplikasi_tempat_wisata",
+    "name": "aplikasi_tempat_wisata_bandung",
+    "short_name": "wisata_bandung",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
